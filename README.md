@@ -1,3 +1,5 @@
+<iimg src="public/UI.png">
+
 ## Description 
 
 Initial stage of the react-app. 
