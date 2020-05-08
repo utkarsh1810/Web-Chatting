@@ -1,6 +1,10 @@
 ## Description 
 
 Initial stage of the react-app. 
+Contains bootstrap files , you can install 
+# npm install react-bootstrap bootstrap
+and than add index.js "import 'bootstrap/dist/css/bootstrap.min.css';".
+
 
 ## Available Scripts
 
