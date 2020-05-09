@@ -1,4 +1,4 @@
-<iimg src="public/UI.png">
+![UI](https://user-images.githubusercontent.com/42411352/81478745-dd7ef700-923c-11ea-8dbb-2806ede751c4.png)
 
 ## Description 
 
